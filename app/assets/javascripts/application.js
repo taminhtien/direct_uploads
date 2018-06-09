@@ -17,4 +17,5 @@
 //= require data-confirm-modal
 //= require activestorage
 //= require turbolinks
+//= require direct_uploads
 //= require_tree .
